@@ -23,5 +23,11 @@ The First Open Source Framework Powered Handheld
 - **Buttons**:[Start/Select Buttons](https://www.aliexpress.com/item/1005004073358461.html?spm=a2g0o.order_list.order_list_main.273.4edf1802nYUJw7)
 - **USB-C Arduino Pro Micro**: [Arduino For Controller](https://www.aliexpress.com/item/32887074671.html?spm=a2g0o.order_list.order_list_main.278.4edf1802nYUJw7)
 
+## 3D Printed Parts:
+- Will Upload once finalized
+- 
+## PCBs:
+-Will Upload once finalized
+
 ## Videos:
 - Part 1: Out Now
