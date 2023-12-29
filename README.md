@@ -30,4 +30,4 @@ The First Open Source Framework Powered Handheld
 - Will Upload once finalized
 
 ## Videos:
-- Part 1: Out Now
+- Part 1: [Out Now](https://youtu.be/XlbybcZxy6A)
