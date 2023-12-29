@@ -27,7 +27,7 @@ The First Open Source Framework Powered Handheld
 - Will Upload once finalized
 - 
 ## PCBs:
--Will Upload once finalized
+- Will Upload once finalized
 
 ## Videos:
 - Part 1: Out Now
