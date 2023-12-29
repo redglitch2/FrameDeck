@@ -1,7 +1,7 @@
 # FrameDeck
 The First Open Source Framework Powered Handheld
 
-##Components##:
+## Components:
 - **Motherboard**: [Framework 13 Mainboard](https://frame.work/ca/en/products/mainboard-11th-gen-intel-core?v=FRANFG000B)
 - **Screen**: [7 inch 1200p Display+Digitizer](https://www.aliexpress.com/item/1005004436708817.html?spm=a2g0o.order_list.order_list_main.4.4edf1802nBw2VC)
 - **battery**: [Framework Battery](https://frame.work/ca/en/products/battery?v=FRANBBAT01)
@@ -23,5 +23,5 @@ The First Open Source Framework Powered Handheld
 - **Buttons**:[Start/Select Buttons](https://www.aliexpress.com/item/1005004073358461.html?spm=a2g0o.order_list.order_list_main.273.4edf1802nYUJw7)
 - **USB-C Arduino Pro Micro**: [Arduino For Controller](https://www.aliexpress.com/item/32887074671.html?spm=a2g0o.order_list.order_list_main.278.4edf1802nYUJw7)
 
-##Videos##:
+## Videos:
 - Part 1: Out Now
