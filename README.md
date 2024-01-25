@@ -31,3 +31,4 @@ The First Open Source Framework Powered Handheld
 
 ## Videos:
 - Part 1: [Out Now](https://youtu.be/XlbybcZxy6A)
+- Part 2: [Out Now](https://www.youtube.com/watch?v=zO6Jn7tTwc8)
