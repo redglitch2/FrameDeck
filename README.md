@@ -24,7 +24,7 @@ The First Open Source Framework Powered Handheld
 - **USB-C Arduino Pro Micro**: [Arduino For Controller](https://www.aliexpress.com/item/32887074671.html?spm=a2g0o.order_list.order_list_main.278.4edf1802nYUJw7)
 
 ## 3D Printed Parts:
-- Will Upload once finalized
+- Revision 1 Out
 - 
 ## PCBs:
 - Will Upload once finalized
