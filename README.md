@@ -22,6 +22,7 @@ The First Open Source Framework Powered Handheld
 - **Thunderbolt Extension**:[Tb3 Extension Cable](https://www.aliexpress.com/item/1005003781125271.html?spm=a2g0o.order_list.order_list_main.176.4edf1802nYUJw7)
 - **Buttons**:[Start/Select Buttons](https://www.aliexpress.com/item/1005004073358461.html?spm=a2g0o.order_list.order_list_main.273.4edf1802nYUJw7)
 - **USB-C Arduino Pro Micro**: [Arduino For Controller](https://www.aliexpress.com/item/32887074671.html?spm=a2g0o.order_list.order_list_main.278.4edf1802nYUJw7)
+- **USB-C to HDMI Adaptr***:[HDMI Adapter](https://www.aliexpress.com/item/4000617378200.html?spm=a2g0o.productlist.main.103.25c7i3Ffi3FfXv&algo_pvid=15a1cd84-5dce-4ad2-b178-c44656baa288&algo_exp_id=15a1cd84-5dce-4ad2-b178-c44656baa288-51&pdp_npi=4%40dis%21CAD%2110.86%2110.86%21%21%217.82%217.82%21%402103297417125179942287739efb92%2110000004044628181%21sea%21CA%211989865802%21&curPageLogUid=9Y1SY1PtqFG9&utparam-url=scene%3Asearch%7Cquery_from%3A_)
 
 ## 3D Printed Parts:
 - Revision 1 Out - January 26, 2024
